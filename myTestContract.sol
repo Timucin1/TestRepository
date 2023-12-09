@@ -1,6 +1,6 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
-//This line for test file for Git repositiory update function
+//This line for test file for Git repositiory Testfunction
 contract SimpleStorage {
     string private data;
 
